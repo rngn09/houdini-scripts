@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+pytest --cov-branch --cov-report term-missing --cov=python tests/
